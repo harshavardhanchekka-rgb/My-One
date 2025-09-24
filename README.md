@@ -1,2 +1,2 @@
 # My-One
-Creating GitHub
+Learning GitHub with DevOps
